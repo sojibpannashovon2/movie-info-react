@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "movieName": "The Dark Knight",
+    "watchTime": 152,
+    "description": "Gotham's protector battles the Joker's chaos.",
+    "poster": "https://c8.alamy.com/comp/C2WJYB/the-dark-knight-poster-display-at-the-arclight-theater-los-angeles-C2WJYB.jpg",
+    "category": "Action/Crime",
+    "imdbRating": 9.0
+  },
+  {
+    "id": 2,
+    "movieName": "The Shawshank Redemption",
+    "watchTime": 142,
+    "description": "Wrongfully imprisoned men bond over time.",
+    "poster": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71JxA6I+sgL._AC_SL1000_.jpg",
+    "category": "Drama",
+    "imdbRating": 9.3
+  },
+  {
+    "id": 3,
+    "movieName": "Inception",
+    "watchTime": 148,
+    "description": "Dream thieves venture into a man's subconscious.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/71RotCbGTML._AC_UL600_SR600,600_.jpg",
+    "category": "Action/Sci-Fi",
+    "imdbRating": 8.8
+  },
+  {
+    "id": 4,
+    "movieName": "Forrest Gump",
+    "watchTime": 142,
+    "description": "Simple man becomes unwitting participant in historic events.",
+    "poster": "https://i.ebayimg.com/images/g/j1gAAOSw52xiN6k8/s-l500.jpg",
+    "category": "Drama/Comedy",
+    "imdbRating": 8.8
+  },
+  {
+    "id": 5,
+    "movieName": "The Godfather",
+    "watchTime": 175,
+    "description": "Mafia family fights for control of organized crime.",
+    "poster": "https://i.ebayimg.com/images/g/dM0AAOSw82Bik6XS/s-l500.jpg",
+    "category": "Crime/Drama",
+    "imdbRating": 9.2
+  },
+  {
+    "id": 6,
+    "movieName": "Bajrangi Bhaijan",
+    "watchTime": 143,
+    "description": "Classical bollywood drama movie",
+    "poster": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/A10P4J+QFyL._RI_.jpg",
+    "category": "Action/Crime",
+    "imdbRating": 8.1
+  },
+  {
+    "id": 7,
+    "movieName": "3 Idiots",
+    "watchTime": 152,
+    "description": "Educational drama",
+    "poster": "https://www.bananaip.com/wp-content/uploads/2010/01/3-idiots-sequel-1.jpg",
+    "category": "Education & Drama",
+    "imdbRating": 8.4
+  },
+  {
+    "id": 8,
+    "movieName": "Avatar",
+    "watchTime": 172,
+    "description": "Scientific drama and advanture",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/image_ab4b216d.jpeg",
+    "category": "Action/Sci-Fi",
+    "imdbRating": 7.9
+  },
+  {
+    "id": 9,
+    "movieName": "Titanic",
+    "watchTime": 162,
+    "description": "Simple advanture become world diseaster",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "category": "Drama/Advanture",
+    "imdbRating": 7.9
+  },
+  {
+    "id": 10,
+    "movieName": "Jhon Wick 4",
+    "watchTime": 135,
+    "description": "Mafia persional fights for control of organized crime.",
+    "poster": "https://arcoplex.com.br/arquivos/arquivos_cinema/cartazes_filmes/f370109.jpeg",
+    "category": "Crime/Drama",
+    "imdbRating": 8.4
+  }
+]
